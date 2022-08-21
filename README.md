@@ -32,4 +32,14 @@ Summary of what you do/did.
 </div>
 
 Summary of what you do/did.
+---
+## Education
+#### Degree
+##### `School • School Location`
+
+<div align="right"> 
+0000 - 0000 (4 Years)
+</div>
+
+Feel free to include any important certifications or other information about your time at this school.
 ##
