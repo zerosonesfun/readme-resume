@@ -19,6 +19,7 @@
 
 <div align="right"> 
 0000 - Present (5 Years)
+<br><br>
 </div>
 
 Summary of what you do/did.
@@ -29,6 +30,7 @@ Summary of what you do/did.
 
 <div align="right"> 
 0000 - 0000 (15 Years)
+<br><br>
 </div>
 
 Summary of what you do/did.
