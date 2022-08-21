@@ -23,8 +23,8 @@
 <br><br>
 </div>
 
-###### Summary of what you do/did.
-
+Summary of what you do/did.
+###.
 #### Job Title
 ##### `Company Name • Company Location`
 
