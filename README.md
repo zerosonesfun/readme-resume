@@ -25,7 +25,7 @@
 
 Summary of what you do/did.
 
-##
+## .
 
 #### Job Title
 ##### `Company Name • Company Location`
@@ -50,7 +50,7 @@ Summary of what you did.
 
 Feel free to include any important certifications or other information about your time at this school.
 
-##
+## .
 
 #### Degree
 ##### `School • School Location`
