@@ -24,6 +24,7 @@
 </div>
 
 Summary of what you do/did.
+
 ##
 
 #### Job Title
@@ -48,7 +49,9 @@ Summary of what you did.
 </div>
 
 Feel free to include any important certifications or other information about your time at this school.
+
 ##
+
 #### Degree
 ##### `School • School Location`
 
