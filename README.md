@@ -40,7 +40,7 @@ Summary of what you do/did.
 
 <div align="right"> 
 0000 - 0000 (4 Years)
-<br>
+<br><br>
 </div>
 
 Feel free to include any important certifications or other information about your time at this school.
@@ -50,7 +50,7 @@ Feel free to include any important certifications or other information about you
 
 <div align="right"> 
 0000 - 0000 (4 Years)
-<br>
+<br><br>
 </div>
 
 Feel free to include any important certifications or other information about your time at this school.
