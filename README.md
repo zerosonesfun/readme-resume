@@ -3,20 +3,33 @@
 
 <!--- Name -->
 # FirstName LastName
+---
 <!--- Contact information - likely not a phone number - this will be public on the web -->
 ### you@invalidemail.com • www.yourwebsite.com
 <!--- Introduction / Summary -->
 ### This can be your current job title or a summary of what you do and/or would like to do.
+---
 <!--- Skills -->
 ## Skills
 #### `JavaScript` `HTML` `CSS`
 <!--- Work Experience -->
 ## Experience
-### Most Recent Job Title
-###### Company Name • Company Location
+#### Most Recent Job Title
+##### `Company Name • Company Location`
 
 <div align="right"> 
 0000 - Present (5 Years)
 </div>
 
 Summary of what you do/did.
+##
+
+#### Job Title
+##### `Company Name • Company Location`
+
+<div align="right"> 
+0000 - 0000 (15 Years)
+</div>
+
+Summary of what you do/did.
+##
