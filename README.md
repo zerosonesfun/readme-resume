@@ -5,16 +5,24 @@
 <!--- Name -->
 # FirstName LastName
 ---
+
 <!--- Contact information - likely not a phone number - this will be public on the web -->
 ### you@invalidemail.com • www.yourwebsite.com
+
 <!--- Introduction / Summary -->
 ### This can be your current job title or a summary of what you do and/or would like to do.
 ---
+
 <!--- Skills -->
 ## Skills
+---
+
 #### `JavaScript` `HTML` `CSS`
+
 <!--- Work Experience -->
 ## Work Experience
+---
+
 #### Most Recent Job Title
 ##### `Company Name • Company Location`
 
@@ -25,7 +33,8 @@
 
 Summary of what you do/did.
 
-### .
+## &nbsp;
+
 #### Job Title
 ##### `Company Name • Company Location`
 
@@ -34,31 +43,39 @@ Summary of what you do/did.
 <br><br>
 </div>
 
-###### Summary of what you did.
+Summary of what you did.
+
+## &nbsp;
 
 <!--- Education & other information goes below -->
----
+
 ## Education
-#### Degree
-##### `School • School Location`
-
-<div align="right"> 
-0000 - 0000 (4 Years)
-<br><br>
-</div>
-
-###### Feel free to include any important certifications or other information about your time at this school.
-
-#### Degree
-##### `School • School Location`
-
-<div align="right"> 
-0000 - 0000 (4 Years)
-<br><br>
-</div>
-
-###### Feel free to include any important certifications or other information about your time at this school.
-
 ---
+
+#### Degree
+##### `School • School Location`
+
+<div align="right"> 
+0000 - 0000 (4 Years)
+<br><br>
+</div>
+
+Feel free to include any important certifications or other information about your time at this school.
+
+## &nbsp;
+
+#### Degree
+##### `School • School Location`
+
+<div align="right"> 
+0000 - 0000 (4 Years)
+<br><br>
+</div>
+
+Feel free to include any important certifications or other information about your time at this school.
+
+## &nbsp;
+
 ## Other
+---
 An optional section you may title and craft however you'd like. Perhaps this area talks about the technical skills you taught yourself outside of work. And/or that you volunteer at your local food bank.
