@@ -7,6 +7,8 @@
 ### you@invalidemail.com • www.yourwebsite.com
 <!--- Introduction / Summary -->
 ### This can be your current job title or a summary of what you do and/or would like to do.
-<!--- Skills or tags because some recruiting platforms like to automatically pull skills from resumés -->
+<!--- Skills -->
 ## Skills
-#### `• JavaScript` `• Node.JS` `• PHP` `• Python` `• HTML` `• CSS`
+#### `JavaScript` `HTML` `CSS`
+<!--- Work Experience -->
+## Experience
