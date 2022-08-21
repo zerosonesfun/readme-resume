@@ -1,4 +1,5 @@
-<!--- Replace the url below with a url pointing you your photo -->
+<!--- PLEASE READ: In case you are not familiar with Markdown, only replace actual verbiage (or URL). Never remove anything surrounding the main verbiage since that is either HTML or Markdown and is needed for the resume to display correctly. -->
+<!--- Replace the url below with a url pointing to your photo (round may be best) or delete the code below up to the name -->
 <img src="https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light" style="width:150px;" align="right" />
 
 <!--- Name -->
@@ -35,6 +36,7 @@ Summary of what you do/did.
 
 Summary of what you do/did.
 
+<!--- Education & other information goes below -->
 ---
 ## Education
 #### Degree
