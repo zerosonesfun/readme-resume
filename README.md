@@ -34,7 +34,7 @@ Summary of what you do/did.
 <br><br>
 </div>
 
-Summary of what you do/did.
+Summary of what you did.
 
 <!--- Education & other information goes below -->
 ---
