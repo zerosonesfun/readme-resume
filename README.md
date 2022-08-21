@@ -23,7 +23,7 @@
 ## Work Experience
 ---
 
-#### Most Recent Job Title
+### Most Recent Job Title
 ##### `Company Name • Company Location`
 
 <div align="right"> 
@@ -35,7 +35,7 @@ Summary of what you do/did.
 
 ## &nbsp;
 
-#### Job Title
+### Job Title
 ##### `Company Name • Company Location`
 
 <div align="right"> 
@@ -52,7 +52,7 @@ Summary of what you did.
 ## Education
 ---
 
-#### Degree
+### Degree
 ##### `School • School Location`
 
 <div align="right"> 
@@ -64,7 +64,7 @@ Feel free to include any important certifications or other information about you
 
 ## &nbsp;
 
-#### Degree
+### Degree
 ##### `School • School Location`
 
 <div align="right"> 
