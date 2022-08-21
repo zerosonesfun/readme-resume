@@ -32,6 +32,7 @@ Summary of what you do/did.
 </div>
 
 Summary of what you do/did.
+
 ---
 ## Education
 #### Degree
