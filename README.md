@@ -13,7 +13,7 @@
 ## Skills
 #### `JavaScript` `HTML` `CSS`
 <!--- Work Experience -->
-## Experience
+## Work Experience
 #### Most Recent Job Title
 ##### `Company Name • Company Location`
 
@@ -43,4 +43,7 @@ Summary of what you do/did.
 </div>
 
 Feel free to include any important certifications or other information about your time at this school.
-##
+
+---
+## Other
+An optional section you may title and craft however you'd like. Perhaps this area talks about the technical skills you taught yourself outside of work. And/or that you volunteer at your local food bank.
