@@ -23,9 +23,7 @@
 <br><br>
 </div>
 
-Summary of what you do/did.
-
-## .
+###### Summary of what you do/did.
 
 #### Job Title
 ##### `Company Name • Company Location`
@@ -35,7 +33,7 @@ Summary of what you do/did.
 <br><br>
 </div>
 
-Summary of what you did.
+###### Summary of what you did.
 
 <!--- Education & other information goes below -->
 ---
@@ -48,9 +46,7 @@ Summary of what you did.
 <br><br>
 </div>
 
-Feel free to include any important certifications or other information about your time at this school.
-
-## .
+###### Feel free to include any important certifications or other information about your time at this school.
 
 #### Degree
 ##### `School • School Location`
@@ -60,7 +56,7 @@ Feel free to include any important certifications or other information about you
 <br><br>
 </div>
 
-Feel free to include any important certifications or other information about your time at this school.
+###### Feel free to include any important certifications or other information about your time at this school.
 
 ---
 ## Other
