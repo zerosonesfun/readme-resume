@@ -43,6 +43,15 @@ Summary of what you do/did.
 </div>
 
 Feel free to include any important certifications or other information about your time at this school.
+##
+#### Degree
+##### `School • School Location`
+
+<div align="right"> 
+0000 - 0000 (4 Years)
+</div>
+
+Feel free to include any important certifications or other information about your time at this school.
 
 ---
 ## Other
